@@ -1,0 +1,22 @@
+# VS / build artifacts
+.vs/
+*.user
+*.suo
+*.aps
+ipch/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.opendb
+*.tlog
+*.lastbuildstate
+
+# Runtime artifacts
+DS2Configurator.log
+DS2ConfigurableCamera.log
