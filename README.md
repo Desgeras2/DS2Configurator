@@ -3,8 +3,8 @@
 A small DLL for the original (DX9, 32-bit) release of *Dark Souls II* that
 adds runtime-tunable camera settings and a few quality-of-life fixes.
 
-Loaded via the standard `DLLMods\` injection setup (the same one used by
-other DS2 modding tools).
+Loaded via the standard `DLLMods\` injection setup (the same one used by my
+other mods).
 
 ## Features
 
